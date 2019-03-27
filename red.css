@@ -46,6 +46,7 @@ li a:hover{
 
     background-image:url("image/white.jpg");
     height: 290px;
+    padding: 10px 5px 3px 1px;
 }
 img{
     height:290px;
@@ -56,14 +57,25 @@ body{
 }
 H1{
     background-color:#a852a5;
-   size: 50PX;
+  width: 51%;
+  font-size: 20px;
    color: white;
-  margin: 0;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   padding: 7px 7px 7px 7px;
 }
-p{
-   float: left;
+.qoraal{
+    float: left;
+   margin: 20px 20px 20px 300px;
 }
 img{
-    width: 200px;
-    height: 200px;
+    width: 250px;
+    height: 250px;
+}
+.riix{
+    margin-top: 0%;
+}
+.Name{
+    font-size: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: lighter;
 }
